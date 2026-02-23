@@ -1,0 +1,8 @@
+{
+  "name": "AIZONET Directory",
+  "description": "The world's most comprehensive AI tools directory with real-time Gemini expert analysis and AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
